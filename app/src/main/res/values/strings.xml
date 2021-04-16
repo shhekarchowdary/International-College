@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">International College</string>
+    <string name="loginPage">Login Page</string>
+    <string name="enterUserName">User Name</string>
+    <string name="enterPassword">Password </string>
+    <string name="login">Login</string>
+    <string name="enterStudentName">Student Name</string>
+    <string name="welcome">Welcome Student Name</string>
+    <string name="graduate">Graduation</string>
+    <string name="underGraduation">Under Graduation</string>
+    <string name="chooselevel">Choose Level</string>
+    <string name="chooseCourse">Choose Course</string>
+    <string name="addCourse">Add Course</string>
+    <string name="totalFee">Total Fee</string>
+    <string name="tFee">0000</string>
+    <string name="tHours">00</string>
+    <string name="totalHours">Total Hours</string>
+    <string name="accommodation">Accommodation</string>
+    <string name="medicalInsurance">Medical Insurance</string>
+</resources>
